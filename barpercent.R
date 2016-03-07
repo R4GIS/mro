@@ -1,3 +1,4 @@
+# draws a horizontal bar chart with percentages labeled
 barpercent <- function (x, names = NULL) {
     if (is.null(names)) names <- names(x)
     par (las = 1, mar = c(5,10,4,6), xpd = NA, xaxs = "i", yaxs= "i")
@@ -18,3 +19,9 @@ barpercent <- function (x, names = NULL) {
     lines(c(.3,3.2)*hat,c(.25,.25))
 }
 
+# examples
+# barpercent(c(4,23, 45), c("Region 1","Region 2","Region 3"))
+
+# x <- c(4, 23, 45)
+# names(x) <- c("Region 1","Region 2","Region 3")
+# barpercent (x)
