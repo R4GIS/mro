@@ -10,9 +10,9 @@
 \usepackage{hyperref}
 \usepackage[svgnames]{xcolor}
 \hypersetup{
-  colorlinks   = true, % color links (instead of boxes)
-  urlcolor     = Blue, % external hyperlinks
-  linkcolor    = Maroon, % internal links
+  colorlinks   = true, %  color links (instead of boxes)
+  urlcolor     = Blue, %  external hyperlinks
+  linkcolor    = Maroon, %  internal links
 }
 \makeindex[intoc]
 \begin{document}
