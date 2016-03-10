@@ -5,9 +5,9 @@ This repository contains files to accompany "Creating Effective Graphs with Micr
 
 To download all files, click "Download ZIP"
 
-### pdfs of book + supplemental material
+To download single pdfs, click the file name and then "Raw".
 
-To download single files, click on one of the files below and then click "Raw" on the right side of the screen.
+### pdfs of book + supplemental material
 
 File name | Description
 ------------ | -------------
