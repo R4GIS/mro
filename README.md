@@ -3,11 +3,11 @@
 
 This repository contains files to accompany "Creating Effective Graphs with Microsoft R Open" by Naomi B. Robbins and Joyce Robbins.
 
-File descriptions are as follows:
+To download all files, click "Download ZIP"
 
 ### pdfs of book + supplemental material
 
-To download a pdf: click on one of the files below and then click "Raw" on the right side of the screen.
+To download single files, click on one of the files below and then click "Raw" on the right side of the screen.
 
 File name | Description
 ------------ | -------------
