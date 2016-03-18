@@ -5,8 +5,8 @@ columns <- c("COLLDEG", "SOMECOLL", "HSDEG","NOHSDEG")
 data <- as.matrix(subset(fathers, select = columns))
 colors4 <- c("lightblue", "skyblue3", "rosybrown1",
              "rosybrown3")
-edugroups <- c("No H.S. degree", "H.S. degree",
-               "Some college", "College degree")
+edugroups <- c("College degree", "Some college",
+               "H.S. degree", "No H.S. degree")
 barplot (data, names.arg = edugroups, horiz = TRUE,
          col = colors4, border = colors4, xlab = "percent",
          ylim = c(0,5.5), cex.axis = 1.3, cex.names = 1.2,
