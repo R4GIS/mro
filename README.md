@@ -1,7 +1,7 @@
 # mro
 ### Creating Effective Graphs with Microsoft R Open
 
-This repository contains files to accompany "Creating Effective Graphs with Microsoft R Open" by Naomi B. Robbins and Joyce Robbins.
+This repository contains files to accompany [Creating effective Graphs with Microsoft R Open](https://info.microsoft.com/CO-AAIoT-CNTNT-FY16-03Mar-Effective-Graphs-with-Microsoft-R-Open-Registration.html) by Naomi B. Robbins and Joyce Robbins.
 
 To download all files, click "Download ZIP"
 
