@@ -1,5 +1,0 @@
-TFR <- c(2.6, 1.9, 2.0, 3.3, 2.5, 2.3, 2.5)
-names(TFR) <- c("Belize", "Costa Rica", "El Salvador",
-                "Guatemala", "Honduras", "Nicaragua",
-                "Panama")
-barplot(TFR)
