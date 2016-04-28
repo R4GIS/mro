@@ -11,7 +11,7 @@ To download single pdfs, click the file name and then "Raw".
 
 File name | Description
 ------------ | -------------
-[`CEGMRO.pdf`](CEGMRO.pdf) | Electronic version of book
+[`EGMRO.pdf`](EGMRO.pdf)|Effective Graphs with Microsoft R Open White Paper
 [`ggplot2code.pdf`](ggplot2code.pdf)|Electronic version of ggplot2 code and graphs (not in paper version)
 [`BaseGraphicsCheatsheet.pdf`](BaseGraphicsCheatsheet.pdf) | Base graphics cheatsheet for printing
 
@@ -24,13 +24,13 @@ File name | Description
 [`barpercent.R`](barpercent.R)|function to create a bar chart with percentages labeled (alternative to pie chart)
 [`dotchartsolid.R`](dotchartsolid.R)|function to create Cleveland dot plot with solid (rather than dotted) lines
 
-### other
+### WhitePaperDraft folder
 
 File name | Description
 ------------ | -------------
-[`CEGMRO.Rnw`](CEGMRO.Rnw)|R Sweave file to produce [`CEGMRO.pdf`](CEGMRO.pdf)
-`BaseGraphicsP1.pdf`, `BaseGraphicsP2.pdf`|files needed to knit [`CEGMRO.Rnw`](CEGMRO.Rnw) to pdf
-[`ggplot2code.Rnw`](ggplot2code.Rnw)|R Sweave file to produce [`ggplot2code.pdf`](ggplot2code.pdf)
+`CEGMRO.pdf`|draft of White Paper
+`CEGMRO.Rnw`|R Sweave file to produce `CEGMRO.pdf`
+`BaseGraphicsP1.pdf`, `BaseGraphicsP2.pdf`|files needed to knit `CEGMRO.Rnw` to pdf
 
 
 
