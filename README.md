@@ -16,7 +16,7 @@ To download single pdfs, click the file name and then "Raw".
 File name | Description
 ------------ | -------------
 [`EffectiveGraphsMRO.pdf`](EffectiveGraphsMRO.pdf)|Effective Graphs with Microsoft R Open White Paper
-[`ggplot2code.pdf`](ggplot2code.pdf)|Electronic version of ggplot2 code and graphs (not in paper version)
+[`ggplot2code.pdf`](ggplot2code.pdf)|Electronic version of ggplot2 code and graphs (not included in White Paper)
 [`BaseGraphicsCheatsheet.pdf`](BaseGraphicsCheatsheet.pdf) | Base graphics cheatsheet for printing
 
 ### R code and data files
