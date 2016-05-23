@@ -7,12 +7,16 @@ To download all files, click "Download ZIP"
 
 To download single pdfs, click the file name and then "Raw".
 
+### Webinar
+[`EGMROwide.pptx`](EGMROwide.pptx)|April 28, 2016 Webinar slides
+(check back soon for code files)
+
 ### pdfs of book + supplemental material
 
 File name | Description
 ------------ | -------------
 [`EffectiveGraphsMRO.pdf`](EffectiveGraphsMRO.pdf)|Effective Graphs with Microsoft R Open White Paper
-[`ggplot2code.pdf`](ggplot2code.pdf)|Electronic version of ggplot2 code and graphs (not in paper version)
+[`ggplot2code.pdf`](ggplot2code.pdf)|Electronic version of ggplot2 code and graphs (not included in White Paper)
 [`BaseGraphicsCheatsheet.pdf`](BaseGraphicsCheatsheet.pdf) | Base graphics cheatsheet for printing
 
 ### R code and data files
@@ -24,7 +28,7 @@ File name | Description
 [`barpercent.R`](barpercent.R)|function to create a bar chart with percentages labeled (alternative to pie chart)
 [`dotchartsolid.R`](dotchartsolid.R)|function to create Cleveland dot plot with solid (rather than dotted) lines
 
-### WhitePaperDraft folder
+### Draft files folder
 
 File name | Description
 ------------ | -------------
